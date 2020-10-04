@@ -2,7 +2,7 @@
   "name": "spotify-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/",
+  "homepage": "https://gunjankadu.github.io/MusicPlayer/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-regular-svg-icons": "^5.14.0",
@@ -54,7 +54,9 @@
     "eject": "react-scripts eject",
     "lint": "prettier --write \"./src/**/*\"",
     "storybook": "start-storybook -p 6006 -s public",
-    "build-storybook": "build-storybook -s public"
+    "build-storybook": "build-storybook -s public",
+    "predeploy": "yarn build",
+    "deploy": "gh-pages -d build"
   },
   "browserslist": [
     ">0.2%",
