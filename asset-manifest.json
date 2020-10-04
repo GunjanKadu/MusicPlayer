@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MusicPlayer/static/css/main.c2bbe833.chunk.css",
+    "main.js": "/MusicPlayer/static/js/main.3c0da86f.chunk.js",
+    "main.js.map": "/MusicPlayer/static/js/main.3c0da86f.chunk.js.map",
+    "runtime-main.js": "/MusicPlayer/static/js/runtime-main.f9f14776.js",
+    "runtime-main.js.map": "/MusicPlayer/static/js/runtime-main.f9f14776.js.map",
+    "static/js/2.9dd3598d.chunk.js": "/MusicPlayer/static/js/2.9dd3598d.chunk.js",
+    "static/js/2.9dd3598d.chunk.js.map": "/MusicPlayer/static/js/2.9dd3598d.chunk.js.map",
+    "index.html": "/MusicPlayer/index.html",
+    "precache-manifest.faca5d63a25eb2c7d022cc71d858b559.js": "/MusicPlayer/precache-manifest.faca5d63a25eb2c7d022cc71d858b559.js",
+    "service-worker.js": "/MusicPlayer/service-worker.js",
+    "static/css/main.c2bbe833.chunk.css.map": "/MusicPlayer/static/css/main.c2bbe833.chunk.css.map",
+    "static/js/2.9dd3598d.chunk.js.LICENSE.txt": "/MusicPlayer/static/js/2.9dd3598d.chunk.js.LICENSE.txt",
+    "static/media/Spotify_Icon_RGB_White.png": "/MusicPlayer/static/media/Spotify_Icon_RGB_White.cc4e2784.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9f14776.js",
+    "static/js/2.9dd3598d.chunk.js",
+    "static/css/main.c2bbe833.chunk.css",
+    "static/js/main.3c0da86f.chunk.js"
+  ]
+}
