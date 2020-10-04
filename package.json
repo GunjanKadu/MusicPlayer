@@ -2,7 +2,7 @@
   "name": "spotify-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://gunjankadu.github.io/MusicPlayer/",
+  "homepage": "/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
     "@fortawesome/free-regular-svg-icons": "^5.14.0",
